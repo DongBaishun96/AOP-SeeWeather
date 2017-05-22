@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="blockcanary-core-1.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/eb0d92b61cac0f0f6c13d78bb6dd22ab18789d07/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/eb0d92b61cac0f0f6c13d78bb6dd22ab18789d07/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

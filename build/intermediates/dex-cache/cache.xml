@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.4-beta2\449777cd466ac0a16f7e8d0dc508e70e2cdd13a9\leakcanary-analyzer-1.4-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="449777cd466ac0a16f7e8d0dc508e70e2cdd13a9">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\leakcanary-analyzer-1.4-beta2_7cffbd22d1dc48609899063810187ffafb1feef3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.2\fd65b84d12d6adc77ec0e4fcaca623fc391d8679\haha-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd65b84d12d6adc77ec0e4fcaca623fc391d8679">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\haha-2.0.2_7c300b11014f584675a6dfe77daea9cafe92e4cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\58cc4a8e9fba3d22728bf622efdd24a3c8e77672\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b74e5d0c46a5f239c437be86965070b449349eae">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a86c87eaaa0904ba90d80b15b91bb15a3ceed02b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Project\SeeWeather\app\libs\lite-orm-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7691b96fd27f2991cb4779c22f9089bf268945c8">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\2\lite-orm-1.9.2_e69d5d27fdab66d1dc50f09b3525eeffdae4f484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\eb0d92b61cac0f0f6c13d78bb6dd22ab18789d07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00a4974f626569eeb6d84f0adb3f8d247f3b6a52">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5f5ff7e1e27f7a104c79f31132637e1b8dd2d16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_77a7c27286d5a23b4238fb5a493edae70480192b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.trello\rxlifecycle\0.7.0\5de44b87f5056914391a0223403e930acbef0220\rxlifecycle-0.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de44b87f5056914391a0223403e930acbef0220">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxlifecycle-0.7.0_33d6cc9f8286ebdf74256dd71e7450dd6390c37f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Project\SeeWeather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d14456f31efc75616487cd2d7f0e15c5021c8be6">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3cd45f8c7954ac78ea20e922b777f30d7a43a3ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.0.1\1d232df84491c0453e077002509911301109409d\logging-interceptor-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d232df84491c0453e077002509911301109409d">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.0.1_7cef099e0c90eafdfb6e4c2fcb8e6f8414730b58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_e66625545c7f2bd834fcb90cc6d9b9d7a406ffd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\3c433df8a04fdf7cabae87104df7c2c17d98bc64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="262af65c07aedc40981243b9a0c9fbbe34533995">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c19eb071fa38c85a9a6266ecffdd65fcd6ce930\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_22dc2257e25c2984c8c93d003d51aa755d264f75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Project\SeeWeather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_96540c0e588664cf8f4755230aab8beaf6bb66b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.9\e4362e62f1ba92e360b197d6d7ffae67e5ecae9a\rxjava-1.1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4362e62f1ba92e360b197d6d7ffae67e5ecae9a">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.9_90c8d36b63d40941edf8330bb2fd0cd63355f6f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\8bd1a1aeea4e67cfd5fdaff0eeac34b49b908fe9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50fd38504119ea609c269abf98af75fb14e82f2c">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86a82199f7bb397d84f56703e32db946807ab22c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Project\SeeWeather\app\libs\Bughd_android_sdk_v1.3.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="defde21f1d2b852279dcdc5f0911ae3688f86c0a">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\2\Bughd_android_sdk_v1.3.7_a7f1278746adc16832907c2bd2923899505f164e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\638f5cefb1afc9cb8d45697b484a4ea002a233b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89857930037dd53bcfe3218f60a95bd17caec0ac">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56c6b9b05301115fdd9031f48ddde0297d348762\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_a04f572e12f4592e5a20708d3623bb6b7c985f88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\64141e1c7e36226cc85343638d25f0ac885a2cf1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07a1832fdb6b44c0f4ec761ac3de02bfd3508269">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84938ea128503c3df5c34173f4da04f858619e6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\5e4d00bd4d450d0cc69be330299a1a0b7ca85b57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f1b20d1c14f4b4f33369c01fca38d9b16ae4ad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.1_5a8c5d79730e3ee442ac6ef5bb06e1a639604818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.4-beta2\6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92\leakcanary-watcher-1.4-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\leakcanary-watcher-1.4-beta2_52148279a6b4462292a55685c7be363e40831335\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\eb401b476791b3dc01968eea95fc55de444c596b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c8472f8e10502af60d0f63ea11eed68bdf690c2">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72d8ac6a15636199ba5ef1d48b019cc8c426347b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Project\SeeWeather\app\libs\systembartint-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\2\systembartint-1.0.3_8095dc838c0f7f0767ad2db6264294c0d84590b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\957596c9bd707e5c1778db04bd4dd20004b1c7df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f028a01f35741f3280d84dda99b07f9bb6861429\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.2\a60c039ba54c73d1133b72178e1b04133c73d13d\adapter-rxjava-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.0.2_5d9043e428d981c78b9330605c058cae878ac888\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\0d4d47e3ac2f53ae86627cfd9f2b1e2e60690eba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7675135012c029fb701a6cc84b4ca7da9f02a70a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\7af50b10f78484f0f2ec7187ea6481b20e41dd07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d4d757701b1b9de625c480d72b516f7d5e89c15">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78e4c9f9071085e68cac572a7009d44da4f6b3b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Project\SeeWeather\app\libs\AMap_Location_v2.3.0_20160112.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfe17aa93c71a6973a53fcbaf7bfe2f3a1859dcf">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_v2.3.0_20160112_2c7d0ba40701383629277cbd1c5e8c7bfa1e1375\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DongBaishun\.android\build-cache\b38c40c74cad75567adca27d6461246774676c01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\Android_Project\SeeWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9feed08b56de96451bc223d4bbc9c7dc3c6d4b0a\classes.dex" />
+    </item>
+
+</items>
